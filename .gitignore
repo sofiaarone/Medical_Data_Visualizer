@@ -1,0 +1,17 @@
+# python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# generated plots
+catplot.png
+heatmap.png
+
+# virtual environment
+venv/
+env/
+.venv/
+
+# system files
+.DS_Store
+Thumbs.db
