@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use("Agg")  # use Agg backend to create plots without a GUI (for testing or headless environments)
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
